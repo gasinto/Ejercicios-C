@@ -1,5 +1,7 @@
 //Ejercicio 19
-//Escribir un programa que almacene la cadena de caracteres contraseña en una variable, y luego que pregunte al usuario por la contraseña e imprima por pantalla si la contraseña introducida por el usuario coincide con la guardada en la variable sin tener en cuenta mayúsculas y minúsculas.
+//Escribir un programa que almacene la cadena de caracteres contraseña en una variable, y luego que pregunte al usuario 
+//por la contraseña e imprima por pantalla si la contraseña introducida por el usuario coincide con la guardada en la 
+//variable sin tener en cuenta mayúsculas y minúsculas.
 
 #include <stdio.h>
 #include <ctype.h>

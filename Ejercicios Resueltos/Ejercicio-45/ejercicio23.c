@@ -1,5 +1,6 @@
 //Ejercicio 23
-//Una farmacia vende algunos artículos sin descuentos y a otros con descuentos del 20%. Confeccionar un programa que recibiendo el precio original y un código que indica si es o no descuento, informe el precio final 
+//Una farmacia vende algunos artículos sin descuentos y a otros con descuentos del 20%. Confeccionar un programa que 
+//recibiendo el precio original y un código que indica si es o no descuento, informe el precio final 
 //NOTA: 0 aplica descuento y 1 no aplica descuento.
 
 #include <stdio.h>
